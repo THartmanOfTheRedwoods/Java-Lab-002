@@ -31,14 +31,38 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+* Variable Name: people
+* Data Type: integer
+* Example Values:  1, 2, 3,
+
+* Variable Name: ticketPrice
+* Data Type: floating point
+* Example Values: 1.0, 2.0, 3.0,
+
+* Variable Name: itemPrice
+* Data Type: double precision
+* Example Values: 1.0, 2.0, 3.0
+
+* Variable Name: trueOrFalse
+* Data Type: boolean
+* Example Values: true, false
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+
+* boolean baseBallCards = 2;
+* boolean values must be logical values such as true, false, if, or, and,
+
+* int baseballBats = 1.0;
+* integers must be whole numbers.
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
 
 ![Format Specifiers](JavaStringFormatSpecifiers.png)
+
+
 
 ### Part 4 - Submission
 * Just as you did last week (Reference the Lab video in your Week 1 module), create a Spring2023 feature branch of your code
