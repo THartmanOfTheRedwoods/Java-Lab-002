@@ -34,6 +34,12 @@ Take note of the various variables and their data types. Write a brief summary i
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
+### Part 2 - STUDENT ANSWERS
+* people (variable name) int (data type) 1, 5000, 279 (example value)
+* ticketPrice (variable name) float (data type) 1.2, 2.3, 3.2 (example value)
+* itemPrice (variable name) double (data type) 1.22334455, 3.09721 (example value)
+* trueOrFalse (variable name) boolean (data type) true, false (example value)
+
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.

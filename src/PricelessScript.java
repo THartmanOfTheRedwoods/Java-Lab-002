@@ -2,25 +2,28 @@ import java.text.NumberFormat;
 
 public class PricelessScript {
     /**
+     * @author Trevor Hartman
+     * @author Adrienne van Summern
      * Proof that MasterCard marketing is in your DNA
      * @param args Command line arguments [The source file path, The target file path, ...]
+     *
      **/
     public static void main(String[] args) {
         // String variables, some with format specifiers
         String scriptTemplateLine1 = "%d tickets: %s";
         String scriptTemplateLine2 = "%d hotdogs, %d popcorn, %d sodas: %s";
-        String scriptTemplateLine3 = "1 autographed baseball %s";
-        String scriptTemplateLine4 = "real conversation with 11 year old son: %s";
+        String scriptTemplateLine3 = "2 autographed baseball %s";
+        String scriptTemplateLine4 = "watching the Giants win: %s";
         String priceless = "priceless";
 
         // integer variable
-        int people = 2;
+        int people = 3;
         // 32 bit floating point variable
         float ticketPrice = 14.0f;  // 32 Bit, but it does exist!
         // double precision floating point variable
         double itemPrice = 9.0;    // Double precision
         // boolean variable
-        boolean trueOrFalse = true;
+        boolean trueOrFalse = false;
 
         NumberFormat formatter = NumberFormat.getCurrencyInstance();
 
@@ -35,7 +38,7 @@ public class PricelessScript {
 
         itemPrice = 45.0;
         System.out.println(
-                String.format(scriptTemplateLine3, formatter.format(itemPrice)));
+                String.format(scriptTemplateLine3, formatter.format(itemPrice * 2)));
 
         System.out.println(
                 String.format(scriptTemplateLine4, priceless));
