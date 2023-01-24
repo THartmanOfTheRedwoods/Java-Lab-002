@@ -31,14 +31,42 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+*int people: refers to the amount of people at the ball game that you're paying for. It is an integer, so only whole numbers can be put here. You can assign any integer like 5, 6, or 67.
+
+*float ticketPrice: is the cost of each ticket. This is a floating number which means that it is a less precise number, so it can be a number like 400.001f, .00025f, or 15.0f. However, you would need to indicate that it is a float number by putting a f at the end of the number. And it only counts 6 to 7 digits of numbers, hence it being a less precise number.
+
+*double itemPrice: this is the price of the items. It is a double precision number, which can represent a the entirety of a >7 digit number. It can be any number like 1.2, 20.05, or the pie value in its entirety. 
+
+*boolean trueOrFalse: This is a variable of true or false. Generally the only values you can assign this is true or false. However some programming languages can be 1 or 0, and java is not one of those languages.
+
+
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+
+Two examples of wrong variable names are
+
+*int Parties! = 50
+
+*int Number of Dogs I Have = 6
+
+These names are incorrect because they have ! and spaces. Java naming conventions restrict what names can be made up of.
+
+Two exampes of wrong variable assignments are:
+
+boolean peopleITolerate = 3
+
+float bigNumber = 3.3333
+
+The boolean assignment should only be true or false, int would be the only variable assignment for 3. The float number is missing the f indicator, double would be the best fit for this number.
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
 
 ![Format Specifiers](JavaStringFormatSpecifiers.png)
+
+
 
 ### Part 4 - Submission
 * Just as you did last week (Reference the Lab video in your Week 1 module), create a Spring2023 feature branch of your code
