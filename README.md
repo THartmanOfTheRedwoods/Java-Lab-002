@@ -28,11 +28,16 @@ false
 ### Part 2 - Interpretation
 Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
 * Variable name
-* Its data type
-* and example values you can assign them.
+* People, Int, 3
+* ticketPrice, Float 14.0f
+* itemPrice, double, 9.0
+* trueOrFalse, boolean, true or false
+
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
-* Hint: your IDE can help you discover these!
+* I don't know if this is examples from the program or from outside so I'll do both, ticketPrice the float I would assign as an integer because it doesn't have any need for a decimal point. Same goes with itemPrice
+* Outside of the program you would want to have an "int x = 0.0" statement you would get an error. the same goes with "double y = 0" although your compiler would automatically convert the 0 to a double it's still improper formatting, I believe though a float is a number that can float between a double and an integer and be either one but I may be misremembering. 
+* 
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
