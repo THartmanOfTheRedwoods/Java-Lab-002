@@ -1,5 +1,4 @@
-# Java-Lab-002
-
+# Java lab 002
 ## Variables, Types and Operators
 
 Be able to explain what variables are. Understand variable types, allowed names, and valid values.
@@ -37,6 +36,10 @@ Next give TWO example variable names and TWO example variable assignments that a
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
+
+There are various variables included in this string of code you could call it. Two of the variables in this are called
+the integer variable and the boolean variable. The data type used for the interger variable is 3 from people and the 
+boolean variable uses false from the trueOrFalse statement.     
 
 ![Format Specifiers](JavaStringFormatSpecifiers.png)
 
