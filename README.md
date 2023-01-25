@@ -26,19 +26,20 @@ false
 ```
 
 ### Part 2 - Interpretation
-Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
-* Variable name
-* Its data type
-* and example values you can assign them.
-
-Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
-* Hint: your IDE can help you discover these!
+* Variables are:
+* people          --type: int     examples: any integer
+* ticketPrice     --type: float   examples: any float
+* itemPrice       --type: double  examples: any double
+* trueOrFalse     --type: boolean examples: true or false
+* Examples of wrong variables/assignments:
+* String itemPrice = 21.00;  --wrong because this should be a float or a double instead of a String.
+* float ticketPrice = 9;  --wrong because there is no decimal. This could cause problems, and type int should be used instead.
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
 
-![Format Specifiers](JavaStringFormatSpecifiers.png)
+* I'm sorry, I don't understand any of this.
 
 ### Part 4 - Submission
 * Just as you did last week (Reference the Lab video in your Week 1 module), create a Spring2023 feature branch of your code
