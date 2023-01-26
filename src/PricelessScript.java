@@ -1,3 +1,10 @@
+/**
+ * @author Trevor Hartman
+ * @author Robert Aronow
+ * Date 1/26/23
+ * @since version 1.0
+ */
+
 import java.text.NumberFormat;
 
 public class PricelessScript {
@@ -9,18 +16,18 @@ public class PricelessScript {
         // String variables, some with format specifiers
         String scriptTemplateLine1 = "%d tickets: %s";
         String scriptTemplateLine2 = "%d hotdogs, %d popcorn, %d sodas: %s";
-        String scriptTemplateLine3 = "1 autographed baseball %s";
-        String scriptTemplateLine4 = "real conversation with 11 year old son: %s";
+        String scriptTemplateLine3 = "2 autographed baseball %s";
+        String scriptTemplateLine4 = "watching the Giants win: %s";
         String priceless = "priceless";
 
         // integer variable
-        int people = 2;
+        int people = 3;
         // 32 bit floating point variable
         float ticketPrice = 14.0f;  // 32 Bit, but it does exist!
         // double precision floating point variable
         double itemPrice = 9.0;    // Double precision
         // boolean variable
-        boolean trueOrFalse = true;
+        boolean trueOrFalse = false;
 
         NumberFormat formatter = NumberFormat.getCurrencyInstance();
 
@@ -33,7 +40,7 @@ public class PricelessScript {
         System.out.printf((scriptTemplateLine2) + "%n", people, people, people,
                 formatter.format(people * itemPrice));
 
-        itemPrice = 45.0;
+        itemPrice = 90.0;
         System.out.println(
                 String.format(scriptTemplateLine3, formatter.format(itemPrice)));
 
