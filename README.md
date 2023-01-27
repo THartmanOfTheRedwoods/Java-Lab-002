@@ -33,6 +33,25 @@ Take note of the various variables and their data types. Write a brief summary i
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+```
+    Variable Name   :   Type  :  Example
+scriptTemplateLine1 : String  : "This is a string, a list of characters"
+scriptTemplateLine2 : String  : "This is a string, a list of characters"
+scriptTemplateLine3 : String  : "This is a string, a list of characters"
+scriptTemplateLine4 : String  : "This is a string, a list of characters"
+priceless           : String  : "This is a string, a list of characters"
+people              : int     : 1234
+ticketPrice         : float   : 12.34f
+itemPrice           : double  : 12.34
+trueOrFalse         : boolean : false
+```
+
+Here are some incorrect assignments:
+```
+  Variable Name  :  Type  : Example : Reason
+stringVariable01 : String : 123 : Assigning a number value to a string.
+intVariable01    : int    : "This is a string, a list of characters" : Assigning a string to a number value.
+```
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
