@@ -34,6 +34,27 @@ Take note of the various variables and their data types. Write a brief summary i
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
+## Answer to Part 2 - Interpretation
+1. **Variables**: scriptTemplateLine1, scriptTemplateLine2, scriptTemplateLine3, scriptTemplateLine4, priceless
+* Type: String (a sequence of characters)
+* Example values: "Hello", "Full name"
+2. **Variable**: people
+* Type: int (integer)
+* Example values: 3,18,500
+3. **Variable**: ticketPrice
+* Type: float (single-precision floating-point number)
+* Example values: 0.02,12.0f,300.7
+4. **Variable**: itemPrice
+* Type: double (double-precision floating-point number)
+* Example values: 3.5,18.234,87.54
+5. **Variable**: trueOrFalse
+* Type: boolean (true or false)
+* Example values: true, false
+ 
+- **Two example variable names and Two example variable assignments that are *WRONG*:**
+* Example variable names: int numberOfCats, String yourName
+* int numberOfCats = twenty (we cannot assign a word to an integer variable)
+* String yourName = Lynn (we have to use " " when assigning a value to a string variable, the correct way to assign a value is: String yourName = "Lynn")
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
@@ -46,3 +67,5 @@ Pick several of the Java format specifiers below and define variables of the cor
 * Push it to your Remote/origin branch (i.e. GitHub: Spring2023 -> origin/Spring2023)
 * Then issue a Pull request to my instructor branch
     * Make sure to save the Pull request URL and submit it for the lab.
+
+
