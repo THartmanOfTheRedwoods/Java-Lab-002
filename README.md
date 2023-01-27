@@ -46,3 +46,13 @@ Pick several of the Java format specifiers below and define variables of the cor
 * Push it to your Remote/origin branch (i.e. GitHub: Spring2023 -> origin/Spring2023)
 * Then issue a Pull request to my instructor branch
     * Make sure to save the Pull request URL and submit it for the lab.
+
+
+### Answers:
+* int: integer variable. Examples: baseball, people, cars, firstName, lastName
+* Double: double precision floating variable. Examples: 50.0, 63.0, 154215.0
+* float: 32 bit floating variable. Examples: 24f, 31f
+* boolean: boolean variable. Examples: trueOrFalse, yesOrNo
+### Wrong examples:
+* Double: Cars, baseball. Why: Since it's an arithmetic variable, it needs to be assigned numbers.
+* int: wrong examples, 21, 1. Why: It needs a name or string of code in order to store a variable.
