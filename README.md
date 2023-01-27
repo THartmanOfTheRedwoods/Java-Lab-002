@@ -34,11 +34,29 @@ Take note of the various variables and their data types. Write a brief summary i
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
+SUMMARY (variable name; data type; example value):
+* people; int; 3, 5, 30
+* ticketPrice; float; 14.0f, 12, 15.1f
+* itemPrice; double; 9.0, 3.23, 12.5
+* trueOrFalse; boolean; true, false
+
+INCORRECT EXAMPLES:
+* decimalInt; int; 3.6 (not a whole number)
+* weirdBool; boolean; five (not a boolean)
+
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
 
 ![Format Specifiers](JavaStringFormatSpecifiers.png)
+
+
+EXAMPLE:
+```
+String example1 = "the first example";
+String ex1=String.format("Example 1 is %s", example1);
+System.out.println(ex1);
+```
 
 ### Part 4 - Submission
 * Just as you did last week (Reference the Lab video in your Week 1 module), create a Spring2023 feature branch of your code
