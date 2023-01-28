@@ -31,9 +31,20 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+int is the data type of the variable people, and effects the number of items purchased. Only whole numbers can be used with the int classification.
+double is the type of the variable itemPrice, which effects how much is charged per food item. double is used for nonexact
+numbers and when arithmetic with a nonexact output is necessary. float is the final data type and is used for variable
+ticket price. float is used in the same situations as double, but is 32 bit.
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
+public and static are two variable names that are disallowed due to their use by the compiler in determining the structure
+of the program.
+
+int hour = 3.5 is incorrect because it improperly assigns a nonexact number to the int data type.
+
+string Luke = "I am your father" is incorrect due to the fact that the syntax for variable assignments is case sensitive.
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
