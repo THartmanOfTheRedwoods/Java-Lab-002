@@ -34,6 +34,26 @@ Take note of the various variables and their data types. Write a brief summary i
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
+Answers:
+
+Varaiable type: string  
+Its data type is to store text. 
+A string can contain spaces as well as letters, numbers, and punctuation marks. 
+A string can be up to 32,767 characters long
+
+Variable type: int
+Its data type is to store integers and no floating-point numbers or decimal number.
+A int can contain any integer containing digits 0,1,2,3,4,5,6,7,8,9.
+
+Variable type: boolean
+booleans can only contain true or false statements, an example variable assignment that is wrong would be anything that is not true or false in this case, 
+such as an int or a floating-point number, or any text.
+
+Variable type: floating-point numbers
+floating-point numbers are variables for decimals and any equations involving division that outputs a fraction/decimal.
+An example of a variable assignment that is wrong would be any double containing any text. It is legal to use int values, 
+but it is not common practice, if you are going to use int values they should be put in decimal form. 
+
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
