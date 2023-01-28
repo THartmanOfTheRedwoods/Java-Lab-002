@@ -31,6 +31,15 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+The variables that I took note of were people, ticketPrice, itemPrice. trueOrfalse and priceless. There descriptions are:
+- people: data type is integers (was originally assigned 2, but changed to 3)
+- ticketPrice: data type is float (assigned 14.0f)
+- itemPrice: data type is double (assigned 9.0)
+- trueOrfalse: data type is boolean (originally assigned true, but changed to false)
+- priceless: data type is string (assigned priceless)
+
+There was also more variables that had the string data type and were named scriptTemplateLineX (X being a number from 1 through 4)
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
@@ -46,3 +55,12 @@ Pick several of the Java format specifiers below and define variables of the cor
 * Push it to your Remote/origin branch (i.e. GitHub: Spring2023 -> origin/Spring2023)
 * Then issue a Pull request to my instructor branch
     * Make sure to save the Pull request URL and submit it for the lab.
+
+/**
+*
+* @author Trevor Hartman
+* @author Geng Cha
+*
+* @since Version 1.0
+*
+*/
