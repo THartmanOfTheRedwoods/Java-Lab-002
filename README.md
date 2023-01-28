@@ -31,8 +31,27 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+Different types of variables I took note of were priceless, ticketPrice, people, itemPrice, and trueOrfalse.
+
+their data types:
+
+ticketPrice is a float data type which I assigned to 14.0f. 
+ 
+people is a integer data type which I assigned to 3.
+
+itemPrice which is a double data type which I assigned to 9.0.
+
+trueOrfalse is a boolean data type which I assigned to false.
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+
+ Examples: 
+
+int hour = 9.5; - integers are only whole numbers
+
+double balance = 345.67; - rounding error/representing the balance as an integer can help avoid the problem
+
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
