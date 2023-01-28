@@ -7,20 +7,20 @@ public class PricelessScript {
      **/
     public static void main(String[] args) {
         // String variables, some with format specifiers
-        String scriptTemplateLine1 = "%d tickets: %s";
-        String scriptTemplateLine2 = "%d hotdogs, %d popcorn, %d sodas: %s";
-        String scriptTemplateLine3 = "1 autographed baseball %s";
+        String scriptTemplateLine1 = "3 tickets: %s";
+        String scriptTemplateLine2 = "3 hotdogs, 3 popcorn, 3 sodas: %s";
+        String scriptTemplateLine3 = "2 autographed baseball %s";
         String scriptTemplateLine4 = "real conversation with 11 year old son: %s";
         String priceless = "priceless";
 
         // integer variable
-        int people = 2;
+        int people = 3;
         // 32 bit floating point variable
         float ticketPrice = 14.0f;  // 32 Bit, but it does exist!
         // double precision floating point variable
         double itemPrice = 9.0;    // Double precision
         // boolean variable
-        boolean trueOrFalse = true;
+        boolean trueOrFalse = false;
 
         NumberFormat formatter = NumberFormat.getCurrencyInstance();
 
