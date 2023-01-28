@@ -46,3 +46,30 @@ Pick several of the Java format specifiers below and define variables of the cor
 * Push it to your Remote/origin branch (i.e. GitHub: Spring2023 -> origin/Spring2023)
 * Then issue a Pull request to my instructor branch
     * Make sure to save the Pull request URL and submit it for the lab.
+
+--- 
+
+### Variable Summary
+
+1: 
+* Variable: int  
+* Data Type: Integer 
+* Example Values: 1, 2, 3
+
+2: 
+* Variable: String
+* Data Type: Message
+* Example Values: "Hello!"
+
+2: 
+* Variable: double
+* Data Type: Floating point
+* Example Values: 1.0, 2.0
+
+--- 
+
+### Incorrect Variables
+
+1: "CHAR" and "string" would both be incorrect as variable names because the capitalization is wrong. String must always begin with a capital letter and char must always be lowercase.
+
+2: "37 = int" would be wrong because it's reversed, which cannot be done in an assignment because the the value and the variable are not the same like the "=" might indicate in mathematics. Another incorrect assignment would be "String = 50" because 50 is an integer. If the 50 was in quotes then it could be printed as a String.
