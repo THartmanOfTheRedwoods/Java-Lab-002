@@ -9,8 +9,8 @@ public class PricelessScript {
         // String variables, some with format specifiers
         String scriptTemplateLine1 = "%d tickets: %s";
         String scriptTemplateLine2 = "%d hotdogs, %d popcorn, %d sodas: %s";
-        String scriptTemplateLine3 = "1 autographed baseball %s";
-        String scriptTemplateLine4 = "real conversation with 11 year old son: %s";
+        String scriptTemplateLine3 = "2 autographed baseball %s";
+        String scriptTemplateLine4 = "watching the Giants win: %s";
         String priceless = "priceless";
 
         // integer variable
@@ -20,7 +20,8 @@ public class PricelessScript {
         // double precision floating point variable
         double itemPrice = 9.0;    // Double precision
         // boolean variable
-        boolean trueOrFalse = true;
+        boolean trueOrFalse = false;
+
 
         NumberFormat formatter = NumberFormat.getCurrencyInstance();
 
@@ -33,7 +34,7 @@ public class PricelessScript {
         System.out.printf((scriptTemplateLine2) + "%n", people, people, people,
                 formatter.format(people * itemPrice));
 
-        itemPrice = 45.0;
+        itemPrice = 45.0*2;
         System.out.println(
                 String.format(scriptTemplateLine3, formatter.format(itemPrice)));
 

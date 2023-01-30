@@ -27,18 +27,20 @@ false
 
 ### Part 2 - Interpretation
 Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
-* Variable name
-* Its data type
-* and example values you can assign them.
+* Variable names included people, ticketPrice, itemPrice, and trueOrFalse.
+* Their data types were int, float, double, boolean. 
+* and example values you can assign them include: 3; 14.0f; 9.0; false;
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+* Incorrect variable names include scriptemplateLine1 and trueOrfalse. Incorrect variable assignments include int people = 2.5; and boolean trueOrFalse = correct;. 
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
 
 ![Format Specifiers](JavaStringFormatSpecifiers.png)
+
 
 ### Part 4 - Submission
 * Just as you did last week (Reference the Lab video in your Week 1 module), create a Spring2023 feature branch of your code
