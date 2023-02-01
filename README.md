@@ -1,6 +1,8 @@
 # Java-Lab-002
 
+
 ## Variables, Types and Operators
+
 
 Be able to explain what variables are. Understand variable types, allowed names, and valid values.
 Know how to create and use string, integer, floating-point, and boolean variables.
@@ -28,12 +30,19 @@ false
 ### Part 2 - Interpretation
 Take note of the various variables and their data types. Write a brief summary in this section of the README.md file listing the:
 * Variable name
+  * // int, double, float, and boolean variables.
 * Its data type
+  * // data type stays the same. 
 * and example values you can assign them.
+  * // int m = 33; 
+  * // double m = 3.0 / 5.0;
+  * // floating-point = 3.0 / 5.0;
+  * // boolean = trueOrfalse
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
-
+  // int m = 3.3; wrong because the int is specifing a double. 
+* // double m = 9999; this format is incorrect and should be written as an int because an int would give the exact value.
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
 Pick several of the Java format specifiers below and define variables of the correct type utilize *sout* and *String.format* to view the resulting formats.
