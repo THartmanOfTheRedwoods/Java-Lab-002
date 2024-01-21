@@ -24,6 +24,15 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+### Attempts to Stump
+
+1. **Removed semicolon.** Red highlighting appeared where semicolon was, set highlighting to off for remainder of exercise. Partner did not see missing semicolon, error message however did say missing ;. Error fixed. 1pt to Chump.
+2. **Removed void return arg.** Partner recognized something was off, could not figure it out. Error code read return type required, partner could not remember the void return type. I would recommend writing out the line again for autocomplete to give suggestions. 1pt to Stump.
+3. **Lowered the casing on String to string.** Partner could not see anything odd. Error Message reads cannot find symbol, class string location stumpthechump. Could not fix. Can't blame them with an error message like that. 1pt Stump.
+4. **Changed System.out to System. in.** Partner quickly recognized the change from System.out to System.in, must have gotten used to reading it. 2pts Chump
+5. **Changed println to printIn.**  Error code brought attention to method printIn, ruse was discovered. 1pt Chump.
+
+
 ---
 
 ## Part 2: Date Display Program
