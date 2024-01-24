@@ -1,5 +1,7 @@
 # Java Lab 002: Stump the Chump and Date Display
 
+## My Stump the chump: My partner and I only got to one round of stump the chump, but in the end we were both stumped. He changed the parentheses around the day month year variables in his string command, and I put the command for public static void twice. 
+
 ## Part 1: Stump the Chump
 
 **Objective:**
