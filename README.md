@@ -24,6 +24,16 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+**Results of Stump the Chump with Wolfgang**
+-[Original source code.png](Original%20source%20code.png)
+**Round 1:** 
+-Both were stumped
+-I had removed "" from both "/" so the String date wouldn't output correctly
+-![My change to original source code.png](My%20change%20to%20original%20source%20code.png)
+-Wolfgang had added an extra public static void 
+-![Wolfgang's change to the source code.png](Wolfgang%27s%20change%20to%20the%20source%20code.png)
+
+
 ---
 
 ## Part 2: Date Display Program
