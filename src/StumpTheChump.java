@@ -1,6 +1,14 @@
 public class StumpTheChump {
+    static double Boy = 2;
+    static double girl = 2;
+
     // Initially working program.
     public static void main(String[] args) {
-        System.out.println("Hi Chump, can you be stumped?");
+
+        if (Boy == girl) {
+            System.out.print("Perfect");
+        }
+
+        }
+
     }
-}
