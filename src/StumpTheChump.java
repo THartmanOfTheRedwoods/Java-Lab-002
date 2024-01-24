@@ -5,18 +5,6 @@ public class StumpTheChump {
     static int month = 1;
     static int year = 2024;
 
-    public static String encrypt(String s, int r)
-    {
-        for (int i = 0; i <= r; i++)
-        {
-            if(i%2 == 0){
-                s = s.replace("%s", "s%");
-            }
-            s = s.replace("%", "%s%s");
-        }
-        return s;
-    }
-
     public static String decrypt(String s, int r)
     {
         for(int i = r; i >= 0; i--)
