@@ -25,6 +25,18 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
 ---
+![code with errors](STC_01.PNG)
+These are the errors changed in the code:
+1. Changed `println` to `printline`
+2. Changed `String date` to `String data`
+3. And finally, changed "date" variable `date = "Wednesday, " + month + "-" + day + "-" + year;` to `date = "Tuesday, " + month + "-" + day + "-" + year;`
+![back to normal](STC_02.PNG)
+
+I was able to locate the changes, as well as Rigel finding my changes on his program. 
+
+
+
+---
 
 ## Part 2: Date Display Program
 
