@@ -23,7 +23,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
     - Opponent gets a point if the error isn't found.
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
-
+** In my attempt to "Stump the Chump" I created a program in which a string variable was defined twice. My partner found the error after using the compiler. My partner attempted to remove a "}" in his program but I found it and fixed it.
 ---
 
 ## Part 2: Date Display Program
