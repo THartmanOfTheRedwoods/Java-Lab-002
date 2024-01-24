@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Eliot Rodriguez
+ *
+ * @since version 1.0
+ * January 17, 2024
+ *
+ */
 public class Date {
     static String day = "Tuesday";
     static String month = "January";
