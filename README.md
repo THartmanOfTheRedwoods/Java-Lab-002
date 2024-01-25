@@ -24,6 +24,13 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+## Possible errors to add include:
+- Typos
+- Not defining a variable as static
+- Using unclosed curly braces or parentheses.
+- Using the wrong character where a parenthesis should be
+- Some less likely, but more unique ways could be to replace semicolons with greek question marks, or editing data which is interpreted in specific ways such that it no longer runs without runtime errors. (i.e removing an s from a format string)
+
 ---
 
 ## Part 2: Date Display Program
