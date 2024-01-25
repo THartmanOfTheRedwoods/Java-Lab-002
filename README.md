@@ -24,7 +24,18 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
----
+--
+I played Stump The Chump with a friend of mine from High School that was a Computer Science Major at University of Utah.
+I had a feeling he was going to be WAYYY better than me at this game, and I was right. I used one of the simple
+programs I wrote from exercises in the lecture notes. I tried to stump him by changing println to printin,
+but he caught those without even compiling. He tried to change the name of the main class on me, which I also caught
+without compiling. The next round I deleted some ;, he had to compile that time. He got me as well by deleting one of
+} at the end. He changed System.out.println to System.in.println, I caught that. He deleted the static in public static
+void and I didn't catch that without compiling. I deleted one of the scanners in the scanner Scanner line, which he 
+caught easily as well. The main thing that I noticed in looking for errors without compiling was paying attention to the 
+hints that intelliJ gives you, and to be meticulous. Also, if I want to win, probably don't play with someone who codes 
+for a living. He doesn't do Java professionally, but nevertheless, he whooped me.
+
 
 ## Part 2: Date Display Program
 
