@@ -24,6 +24,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+- I have responded to two classmates posts on the student lounge discussion. I corrected two sets of code. My method was to simply read the code and look for errors. After finding codes by just reading it I entered the code into intellij and ran the code to see if there were any additional errors. The errors I put in my code included, system not being capitalized, a missing ), a missing ;, removing public from "public static void", and removing a period between System and out. At this point in time, no one had responded to my post to correct my code. 
 ---
 
 ## Part 2: Date Display Program
