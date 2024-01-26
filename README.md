@@ -23,7 +23,106 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
     - Opponent gets a point if the error isn't found.
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
+---
+# H1 STUMP THE CHUMP RESULTS
+My partner did not use the compiler in any round and successfully fixed the code each time, i had to use the compiler in both round 3 and 5. In the first round I noticed the "t" placed unusaully, so I removed and ran code. In round 2 I noticed the code was missing a } at the end, since there needs to be two instead of one. In round 3 I noticed it said "StumpTeChump", so i had to change it to match the java file name. The reason I used the compiler in round 3 was because I could not realize that I needed the "void" after public. In round 4 I noticed my partner removed the // in "Initially working program". And in round 5 I noticed that a lot of the }'s were replaced with paranthesis. As far as the other errors I could not understand so I had to use the compiler. The final score was partner- 10, me - 8.
 
+---
+1. rd. 1
+Partner's:
+
+   public class StumpTheChump {
+   // Initially working program.    
+   public static void main(String[] args) {
+   t
+   System.out.println("Hi Chump, can you be stumped?");
+   }
+   }
+
+tanner's:
+
+public class StumpTheChump {
+// Initially working program.
+public static void main(String[] args) {System.out.println("Hi Chump, can you be stumped?")
+}
+}
+---
+2. rd.2
+Partner's: 
+
+   public class StumpTheChump {
+   // Initially working program.
+   public static void main(String[] args) {
+   System.out.println("Hi Chump, can you be stumped?");
+   }
+
+tanner's:
+
+public class StumpTheChump {
+// Initially working program.
+public static void main(String args){System.out.println("Hi Chump, can you be stumped?");
+}
+}
+
+
+
+---
+3. rd.3
+Partner's: 
+
+public class StumpTeChump {
+   // Initially working program.
+   public static main(String[]args){System.out.println("Hi Chump, can you be stumped?");
+   }
+   }
+
+**used compiler**
+
+tanner's:
+
+public class StumpTheChump {
+// Initially working program.
+public static void main(String[] args){System.out.printIn(("Hi Chump, can you be stumped?")):
+}
+}
+---
+
+4. rd. 4
+Partner's:   
+public class StumpTheChump {
+   Initially working program.
+   public static void main(int[] args){System.println("Hi Chump, can you be stumped?);
+   }
+   }
+
+
+
+tanner's:
+
+public class StumpTheChump {
+//Initially working program.
+public static void main(String[] args)[System.out.println('Hi Chump, can you be stumped?");
+}
+}
+---
+
+5. rd. 5 partner's:
+
+public StumpTheChump (
+//Initially working program.
+public static void main(String[] args)(System.out.println{"Hi Chump, can you be stumped?"};
+)
+)
+used compiler
+
+
+tanner's:
+
+public class StumpTheChump {
+//Initially working program.
+public class void main(String() args).{System.out.println("Hi Chump, can you be stumped?");
+}
+]
 ---
 
 ## Part 2: Date Display Program
