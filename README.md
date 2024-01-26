@@ -24,6 +24,9 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+## Assignment Paragraph with John Matney
+For the first attempt I was up to change the code so I changed the worst System to system and John figured it out pretty quickly without the compiler, the steps he took was looking for the correct punctuation that is typically used in these types of source code. For the second attempt John was up to change the code, during his attempt he changed the first curly bracket to a regular parenthesis. I was unable to find it because I failed to figure out that the parenthesis replaced something, instead I placed an opposite facing parenthesis to try and fill it in. For the third attempt I was up to make changes so I decided to change the word println to Println, John figured it out pretty quickly. The steps he took to figure this out was to look at all the punctuation again like he did with the System change. For the fourth attempt John was up to change the code so he changed the semicolon to a colon, I figured this one out by using the compiler to be honest that one kind of told me that it was missing a semicolon. For the fifth attempt John changed the name StumpTheChump to stumpthechump, I figured it out without the compiler this time and then I changed it to what it was regularly. I figured this out by looking for punctuation due to me constantly changing the punctuation of the words myself. 
+
 ---
 
 ## Part 2: Date Display Program
