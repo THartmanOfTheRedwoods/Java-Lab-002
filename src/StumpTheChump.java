@@ -1,6 +1,11 @@
 public class StumpTheChump {
-    // Initially working program.
     public static void main(String[] args) {
-        System.out.println("Hi Chump, can you be stumped?");
+        System.in.println("Hi Chump, can you be stumped?");
+        int x = 35.0;
+        int y = 15
+        Int z = x+y;
+        system.out.println(z);
+
     }
+
 }
