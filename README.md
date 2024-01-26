@@ -24,6 +24,8 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+My first attempt to stump Jaime Ortiz was that I changed the main(string) name to mian(string) to see if he would pick up on the misspelled word in the code, he did, two points for him. My Second attempt to stump Jaime was that I changed the starting curly bracket to a parenthesis, he did not see that one coming, plus one point to me. A step that jaime could have used is looking at each group and making sure there are both opening and closing brackets. The third attempt I took away the parentheses completely away from the println. The fourth attempt I took away the semicolon rendering the code useless but jaime found it very quickly. The last way I tried to stump Jaime was by changing the public class name to lowercase stumpthechump, this would not be able to run because it is not the same as the declared file name 'StumpTheChump'. Jaime instantly saw that the names did not match so he swiftly changed it.
+
 ---
 
 ## Part 2: Date Display Program
