@@ -24,6 +24,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+I played this game with my girlfriend so all she did was delete random letters from the original stump the chump code and asked if I could see the problem. Amazingly, I figured everything out and got it working again I just had a problem with the 4th line because I didn't know that it was println instead of printin 
 ---
 
 ## Part 2: Date Display Program
