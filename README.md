@@ -52,3 +52,10 @@ Just as you did in the first lab (Reference the Lab video in your Week 1 module)
 5. **Make sure to COPY the Pull request URL and submit it for the lab/assignment in Canvas.**
 
 Enjoy the learning process!
+
+## Stump the Chump
+
+I modified Ricardo's code in 5 different areas, and he quickly used the IDE to correct the errors.
+He did the same to my code, and then the IDE made short work of them. I enjoy how the IDE will debug your code
+in a way that require user input to make the actual change. I believe that this class provides the tools and the push
+to learn how to write programs. I am looking forward to learning other languages, once I have a grasp on Java. 
