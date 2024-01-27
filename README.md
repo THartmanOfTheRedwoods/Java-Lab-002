@@ -24,6 +24,10 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+## <span style="color:purple">***Stump the Chump Results:***</span>
+In an attempt to stump my partner, I first changed the line <span style="color:yellow">public static void main(String[ ] args) {</span> by deleting the word "void" and changing the [] to (). Then I deleted the ';' after the line <span style="color:yellow">System.out.println(y/x)</span> and changed println to print. I then threw in a little integer division with the line <span style="color:yellow">System.out.print(x / y)</span> [sic] and deleted one of the closing "}" from the end of the program.
+My partner and I did not have a thorough discussion since this all happened over comments in Canvas, but they were able to find all errors prior to running the program.
+
 ---
 
 ## Part 2: Date Display Program
