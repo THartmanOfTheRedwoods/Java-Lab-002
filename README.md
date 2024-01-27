@@ -23,7 +23,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
     - Opponent gets a point if the error isn't found.
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
-
+     I created a program to display the current time. However, there were several errors, including not capitalizing System, placing quotation marks around an intiger variable, missing a ;, missing a space, and capitalizing Static. My partner was able to find all of the errors and correct the program. Starting with capitalizing System and not Static as well as adding a missing ;, the program would run, but the output would still be incorrect. After this he was able to see the unneccessary quotation marks and missing space in the output and corrected those errors as well. I did this purposly so that the program would still run, but contain errors, making it more difficult to solve.
 ---
 
 ## Part 2: Date Display Program
