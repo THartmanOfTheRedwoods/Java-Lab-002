@@ -52,3 +52,12 @@ Just as you did in the first lab (Reference the Lab video in your Week 1 module)
 5. **Make sure to COPY the Pull request URL and submit it for the lab/assignment in Canvas.**
 
 Enjoy the learning process!
+
+## Conclusion
+Me and my partner played Stump the Chump and in the end the score was 8-9, he won, I was the chump.
+We decided to make the game more interesting and open more opportunities for stumping by making a simple array and printing all of the values inside using a for loop.
+The first round a kept it simple, I just replaced the L in println with an uppercase I (printIn) but since it makes the typo pop up in red it was pretty easy to catch.
+The second round I made things a little more difficult by replacing public class with public main, and he ended up using the compiler to find the issue, so you could say he was a little bit of a chump here. If he made sure to keep closer attention to the syntax used he would've been able to catch the issue.
+The third round I replaced the int in the for loop with "var" hoping he wouldn't catch it. It took him some time but he eventually found it.
+The fourth round I replaced all of the Ws with double Vs, but it ended up being way more obvious than I thought.
+The fifth round I just put a lot of typos in various places. It took him a little time, but he figured it out.
