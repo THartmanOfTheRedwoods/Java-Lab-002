@@ -24,6 +24,8 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+**For the stump the chump game I attempted to stump my partner by purposefully forgetting to add a couple of semicolons when ending a line of code, I didn't write the correct code to print an output and I similarly created an output and added the period (.) on the next line; and I also included a mathematical error which would mean added an extra zero to create the correct calculated output. I don't know the class Discord so I posted it on the Student Lounge discussion. I unfortunately did not receive replies, but I did respond to a classmate who left me a little stumped on the output that he wanted to print. However, I did recognize some common errors and was able to identify those.**
+
 ---
 
 ## Part 2: Date Display Program
