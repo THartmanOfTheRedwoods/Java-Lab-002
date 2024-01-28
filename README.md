@@ -24,6 +24,9 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+The first thing I did was change the letter casing in the class name. The second thing I did was delete the opening parenthesis in front of “main”.
+The third thing I did was make a part of the code after the closing bracket of “public static void main (String[] args) {}”. The fourth and fifth thing I did was delete the semicolon from “int x = 50;” and I also capitalized the “I” in “int”. I tried to make the mistakes not too obvious but some of them you can find right from the start. I didn’t have a partner but I posted my code in the Student Lounge forum.
+
 ---
 
 ## Part 2: Date Display Program
