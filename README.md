@@ -24,6 +24,10 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+Kelten speaking here I played this game with one of my friends that also has learned coding with me in the past and has alot of experience with it but no so much Java so the playing field was basically even
+
+First 3 rounds went with clever ways to suprised both us of using things such as swaping 2 letters around Main so it spelled Mian instead removing single points that without broke the whole thing the stupid thing that leads to me as the victor is I change 4 small things to see if he could catch them he found 3 and was confidant he got it but realized the 4th was no where in sight so he gave up after that and I was victorious. If your wondering it was changing the [] to ().
+
 ---
 
 ## Part 2: Date Display Program
