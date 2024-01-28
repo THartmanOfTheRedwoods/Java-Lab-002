@@ -52,3 +52,10 @@ Just as you did in the first lab (Reference the Lab video in your Week 1 module)
 5. **Make sure to COPY the Pull request URL and submit it for the lab/assignment in Canvas.**
 
 Enjoy the learning process!
+
+# Steps I took to find a partner
+- since its online I texted a friend of mine thats in this class, but he already finished the Lab. Since im pretty much
+Turning it in last minute. I thought that other people were also already done with the Lab. I don't have time during the
+weekday, due to working all day. Next time I will message my friend to wait for me so we could do the activity together.
+He was working on other assignments that are due today, so he couldnt help me out with this Lab. Sorry I promise to do 
+better next time. It takes me a while to complete each lab (around 3-4 hours.) Thank you!
