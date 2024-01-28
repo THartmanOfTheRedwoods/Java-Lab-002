@@ -52,3 +52,14 @@ Just as you did in the first lab (Reference the Lab video in your Week 1 module)
 5. **Make sure to COPY the Pull request URL and submit it for the lab/assignment in Canvas.**
 
 Enjoy the learning process!
+
+## Lab 1, Part 1
+- I set up the StumpTheChump program with and error in the print line, did not use () around the x when I had it print.
+- Code threw error of variable already defined. 
+- Partner was able to figure out that something was wrong with the print line, but could not determine what exactly was wrong. 
+- 1 point for me
+- Next I changed the program so that it had a comment line with the right code to input.
+- Partner came up with several ways to meet the challenge. 
+- 2 points for Partner
+- We ran out of ability to continue working on further problems together. 
+- Edited Readme. 
