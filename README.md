@@ -24,6 +24,16 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+**Reflection:**
+* I attempted to stump my partner by including a few simple bugs. Most of the bugs were taking advantage of the case-sensitive nature of declaration and assignment statements. I also purposefully included some incorrect punctuation.I made sure the punctuation was similar to the correct style so as not to stand out too much. I also left out the last closing curly bracket to see if that would be noticed. Unfortunately, at the time of this submission my partner has not yet attempted to identify my bugs. I would recommend that they go line by line to look for punctuation and capitalization errors as well as paying attention to the type of variables that are declared and the format of the values assigned.
+* The errors I found in my partner's code are as follows:
+  1. Static should not be capitalized.
+  2. The "minute" variable assignment should end with " ; ".
+  3. System should be capitalized.
+  4. There should be a space at the end of the string "the current time is".
+  5. The statement printing "hour" is printing a string containing the characters "hour". To return the value of the hour variable no quotations should be used.
+
+
 ---
 
 ## Part 2: Date Display Program
