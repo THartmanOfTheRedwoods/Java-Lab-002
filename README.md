@@ -24,6 +24,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+- In my first attempts at trying to stump my partner I was unsuccessful. I started with small changes to the end or start brackets and then changed to deleting or replacing letters in the code. My partner's strategy was entirely based on memorization. He started with memorizing the working program and at the start of each round my partner would do a close reading of program. My partner's strategy worked well until the last few rounds because it was harder to spot the error. To solve a spelling error I think that being familiar with how the code is written would make it easier to spot.
 ---
 
 ## Part 2: Date Display Program
