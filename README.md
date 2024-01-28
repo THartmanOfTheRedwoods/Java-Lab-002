@@ -24,6 +24,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+  In my modified code, I implemented 5 errors which were meant to stump my classmates. The first error that I made was capitalizing the word "static" in the code. The next error was making "System.in.println" instead of "System.out.println". For one line, I made two errors by identifying y as a double even though the number was a regular whole number, and I also did not end the line with a semicolon. Last, I did not capitalize "system" at the end of the code. I posted my code in the student lounge discussion in hopes of some replies, but did not receive any at this point. When analyzing my code, I would look at the basics like capitalization and punctuation to make sure they are accurate. Then, if I cannot identify anymore errors, I would run the code and see what else needs to be fixed. I completed a classmate's code and was able to identify all 5 errors. 
 ---
 
 ## Part 2: Date Display Program
