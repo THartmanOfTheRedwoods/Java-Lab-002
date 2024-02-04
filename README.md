@@ -24,6 +24,8 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+I played 5 rounds with ChatGpt first round I noticed right off the bat that the AI had deleted the semi-colon at the end of the System.out.println section of code. Next challenge removed the "l" from println. 3rd round removed the last "}". The 4th round the "S" in String was un-capitalized I failed to notice it. 5th round was easier and esily noticable I saw that out was removed from the 3rd code line. All in all it was too bad I got 8/10 points; I did not use the compiler and I just mainly looked at the symbols to make sure anything was out of place. 
+
 ---
 
 ## Part 2: Date Display Program
