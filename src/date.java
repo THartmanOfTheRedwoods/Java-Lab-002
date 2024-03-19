@@ -4,7 +4,7 @@ import java.util.Date;
 public class date {
     public static void main(String[] args) {
 
-        Date currentDate = new Date();
+        Date = new Date();
 
         SimpleDateFormat dateFormat = new SimpleDateFormat("18/03/2024");
 
